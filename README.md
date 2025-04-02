@@ -52,8 +52,7 @@ przykładową konfigurację zawarto w `.pre-commit-config.yaml`.
     to wyjątek od reguły z punktu 8. W przypadku przesłania go w terminie poprawkowym punkty są redukowane zgodnie z opisem w punkcie 7.
 12. W przypadku nieuzyskania zaliczenia z co najmniej jednego z ćwiczeń indywidualnych (w szczególności uwzględniając minimum 
    punktowe z pkt. 2, oraz termin spóźniony z pkt. 5), w pierwszym terminie zaliczenia przedmiotu wystawiana jest ocena niedostateczna. 
-13. W przypadku nieuzyskania zaliczenia w pierwszym terminie możliwe jest uzyskanie zaliczenia w terminie poprawkowym, jeśli
-   wszystkie brakujące ćwiczenia indywidualne zostaną ocenione pozytywnie do końca sesji poprawkowej.
+13. W przypadku nieuzyskania zaliczenia w pierwszym terminie możliwe jest uzyskanie zaliczenia w terminie poprawkowym, jeśli wszystkie brakujące ćwiczenia indywidualne zostaną ocenione pozytywnie do końca sesji poprawkowej.
 14. W przypadku uzyskania zaliczenia stosowana jest skala ocen AGH, tj.:
     * `50-59` pkt. - ocena 3 (dst)
     * `60-69` pkt. - ocena 3,5 (+dst)
